@@ -1,0 +1,5 @@
+{
+  "name": "GAN Image Restorer",
+  "description": "Upload a damaged or old photo, select a virtual GAN restoration model, and let AI bring your image back to life. See the original and restored images side-by-side.",
+  "requestFramePermissions": []
+}
